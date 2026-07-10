@@ -95,11 +95,11 @@ if len(sys.argv) >= 8:
 else:
     print("⚠️ No VBA arguments detected. Falling back to manual test parameters...")
     TEMPLATE_NAME = "Template_Modern_Side"
-    STUDENT_NAME = "Tanisha Angel"
+    STUDENT_NAME = "Student Name"
     TARGET_TITLE = "Medical Assistant"
     PROGRAM_FOLDER = "MSMA"
     RAW_DATE_INPUT = "Mar-27"  
-    RAW_RESUME_FILENAME = "Tanisha Angel Resume 1.docx"
+    RAW_RESUME_FILENAME = "Student Name Resume 1.docx"
     NEED_OPTION = "Improve"
     HAS_EXPERIENCE = True
 
