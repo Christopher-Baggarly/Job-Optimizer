@@ -1,0 +1,72 @@
+{
+  "First": {
+    "name": "Marcus"
+  },
+  "Last": {
+    "name": "Reeves"
+  },
+  "email": "marcus.reeves@example.com",
+  "phone": "(555) 555-0142",
+  "address": "Central, GA",
+  "summary": "Hands-on HVAC/R Technician with diploma-level training and field experience in residential and light commercial system service. Skilled in refrigerant recovery, electrical diagnostics, and customer-facing service work. OSHA 10 certified with demonstrated competency across split systems, package units, and ductless mini-splits.",
+  "student": {
+    "education": [
+      {
+        "degree": "Diploma, Heating, Ventilation, Air Conditioning and Refrigeration Technician",
+        "institution": "Regional Technical Institute",
+        "date": "Expected May 2026"
+      }
+    ],
+    "experience": [
+      {
+        "title": "HVAC Apprentice",
+        "company": "Mid-State Mechanical Services",
+        "date": "June 2024 - Present",
+        "bullets": [
+          "Supported lead technicians on 15-20 residential and light commercial service calls per week, including AC installations, heat pump swaps, and emergency repair work",
+          "Logged refrigerant pressures, electrical readings, and airflow measurements to warranty and manufacturer specifications",
+          "Maintained clean job sites and customer-facing communication during multi-day install projects"
+        ]
+      },
+      {
+        "title": "Facilities Maintenance Technician",
+        "company": "Local School District",
+        "date": "August 2023 - May 2024",
+        "bullets": [
+          "Performed weekly preventive maintenance across four school facilities, including filter replacement, thermostat calibration, and condensate line clearing",
+          "Identified equipment deficiencies and submitted work orders to facilities director for capital planning",
+          "Coordinated with custodial staff to minimize disruption during occupied-hour service windows"
+        ]
+      }
+    ],
+    "skills": [
+      "Refrigerant recovery and charging (EPA 608 Universal)",
+      "Low-voltage control troubleshooting",
+      "240V electrical diagnostics",
+      "Sheet metal ductwork fabrication",
+      "Split system and package unit service",
+      "Customer service documentation",
+      "OSHA 10 safety compliance"
+    ],
+    "certifications": [
+      {
+        "name": "EPA Section 608 Universal Certification",
+        "description": "Issued June 2025"
+      },
+      {
+        "name": "OSHA 10-Hour General Industry",
+        "description": ""
+      }
+    ],
+    "references": [
+      {
+        "name": "James Whitfield, Lead Technician, Mid-State Mechanical Services",
+        "phone": "(555) 555-0188"
+      },
+      {
+        "name": "Patricia Hall, Facilities Director, Local School District",
+        "phone": "(555) 555-0167"
+      }
+    ]
+  }
+}
