@@ -1,72 +1,53 @@
 {
-  "First": {
-    "name": "Marcus"
-  },
-  "Last": {
-    "name": "Reeves"
-  },
-  "email": "marcus.reeves@example.com",
-  "phone": "(555) 555-0142",
-  "address": "Central, GA",
-  "summary": "Hands-on HVAC/R Technician with diploma-level training and field experience in residential and light commercial system service. Skilled in refrigerant recovery, electrical diagnostics, and customer-facing service work. OSHA 10 certified with demonstrated competency across split systems, package units, and ductless mini-splits.",
+  "First": {"name": "Marcus"},
+  "Last": {"name": "Reyes"},
+  "email": "marcus.reyes@example.com",
+  "phone": "(555) 123-4567",
+  "address": "Atlanta, GA",
+  "summary": "HVAC/R technician with three years of field experience in commercial refrigeration and residential HVAC installation. Demonstrated ability to diagnose system failures, perform preventive maintenance, and communicate technical findings to non-technical stakeholders.",
   "student": {
     "education": [
       {
-        "degree": "Diploma, Heating, Ventilation, Air Conditioning and Refrigeration Technician",
-        "institution": "Regional Technical Institute",
-        "date": "Expected May 2026"
+        "degree": "HVAC/R Technician Diploma",
+        "institution": "Regional Technical College",
+        "date": "May 2024"
       }
     ],
     "experience": [
       {
-        "title": "HVAC Apprentice",
-        "company": "Mid-State Mechanical Services",
+        "title": "HVAC/R Technician",
+        "company": "Comfort Systems Inc.",
         "date": "June 2024 - Present",
         "bullets": [
-          "Supported lead technicians on 15-20 residential and light commercial service calls per week, including AC installations, heat pump swaps, and emergency repair work",
-          "Logged refrigerant pressures, electrical readings, and airflow measurements to warranty and manufacturer specifications",
-          "Maintained clean job sites and customer-facing communication during multi-day install projects"
+          "Performed diagnostic and repair work on 40+ residential HVAC units monthly, maintaining a 92% first-visit resolution rate.",
+          "Completed EPA 608 certification and routinely handle refrigerant recovery in compliance with Section 608 of the Clean Air Act.",
+          "Trained two junior technicians on system startup procedures and safety protocols."
         ]
       },
       {
-        "title": "Facilities Maintenance Technician",
-        "company": "Local School District",
-        "date": "August 2023 - May 2024",
+        "title": "Apprentice Technician",
+        "company": "Brock Mechanical",
+        "date": "August 2022 - May 2024",
         "bullets": [
-          "Performed weekly preventive maintenance across four school facilities, including filter replacement, thermostat calibration, and condensate line clearing",
-          "Identified equipment deficiencies and submitted work orders to facilities director for capital planning",
-          "Coordinated with custodial staff to minimize disruption during occupied-hour service windows"
+          "Assisted lead technicians on commercial refrigeration installations across 15+ restaurant accounts.",
+          "Logged over 1,200 hours of supervised field experience in ductwork, electrical, and refrigerant line work."
         ]
       }
     ],
     "skills": [
-      "Refrigerant recovery and charging (EPA 608 Universal)",
-      "Low-voltage control troubleshooting",
-      "240V electrical diagnostics",
-      "Sheet metal ductwork fabrication",
-      "Split system and package unit service",
-      "Customer service documentation",
-      "OSHA 10 safety compliance"
+      "EPA 608 Universal",
+      "Commercial Refrigeration",
+      "Residential HVAC",
+      "Diagnostic Troubleshooting",
+      "Preventive Maintenance",
+      "Customer Communication"
     ],
     "certifications": [
-      {
-        "name": "EPA Section 608 Universal Certification",
-        "description": "Issued June 2025"
-      },
-      {
-        "name": "OSHA 10-Hour General Industry",
-        "description": ""
-      }
+      {"name": "EPA 608 Universal", "description": "Issued May 2023"},
+      {"name": "OSHA 10-Hour Construction", "description": ""}
     ],
     "references": [
-      {
-        "name": "James Whitfield, Lead Technician, Mid-State Mechanical Services",
-        "phone": "(555) 555-0188"
-      },
-      {
-        "name": "Patricia Hall, Facilities Director, Local School District",
-        "phone": "(555) 555-0167"
-      }
+      {"name": "James Brock", "phone": "(555) 987-6543"}
     ]
   }
 }
