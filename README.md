@@ -1,4 +1,5 @@
 Automated Resume Engineering & Market Alignment Pipeline
+
 The Business Problem
 Career services and advising teams face a massive scaling bottleneck: manually reviewing, restructuring, and formatting client resumes, while simultaneously sourcing relevant local job market data. This manual process is prone to formatting errors, stylistic inconsistencies, and consumes hours of administrative overhead per client, limiting the number of individuals the organization can effectively serve.
 
