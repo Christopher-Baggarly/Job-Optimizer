@@ -26,3 +26,7 @@ External APIs: OpenAI (gpt-4o-mini), Serper (Google Search API)
 
 Reduced a multi-hour, highly manual advising and formatting process down to a seamless, zero-touch automated script. The system guarantees perfect formatting compliance across the organization, objectively grades historical job relevance, and arms the client with immediate, actionable labor-market data.
 
+**Author**
+
+Built by Christopher Baggarly — Financial Aid administration with hands-on responsibility for Title IV packaging, COD reconciliation, and student-facing disclosure delivery. Engineered to solve a specific pain point (manual packet assembly eating staff hours) while preserving the federal compliance floor that an auditor would check.
+
